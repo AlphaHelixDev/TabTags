@@ -73,12 +73,12 @@
         <dependency>
             <groupId>de.alphahelix</groupId>
             <artifactId>alphalibary</artifactId>
-            <version>1.6.3</version>
+            <version>1.7.1</version>
         </dependency>
         <dependency>
             <groupId>org.spigotmc</groupId>
-            <artifactId>spigot-api</artifactId>
-            <version>1.11.2-R0.1-SNAPSHOT</version>
+            <artifactId>spigot</artifactId>
+            <version>1.12-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>

@@ -1,0 +1,7 @@
+name: TabTags
+version: ${project.version}
+main: de.alphahelix.tabtags.TabTags
+depend: [AlphaLibary]
+authors: [AlphaHelix]
+description: Modify your name inside the tablist
+website: https://alphahelixdev.github.io

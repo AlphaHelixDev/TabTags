@@ -6,7 +6,7 @@
 
     <groupId>de.alphahelix</groupId>
     <artifactId>TabTags</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>TabTags</name>
@@ -56,25 +56,12 @@
 
     <repositories>
         <repository>
-            <id>bintray-alphahelixdev-AlphaLibary</id>
-            <url>http://dl.bintray.com/alphahelixdev/AlphaLibary</url>
-        </repository>
-        <repository>
             <id>spigotmc-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>sonatype</id>
-            <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
     </repositories>
 
     <dependencies>
-        <dependency>
-            <groupId>de.alphahelix</groupId>
-            <artifactId>alphalibary</artifactId>
-            <version>1.7.1</version>
-        </dependency>
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
